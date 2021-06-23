@@ -6,6 +6,9 @@
     font-family: 'Source Sans Pro', sans-serif;
 }
 
+html {
+    scroll-behavior: smooth; /* Para deixar a rolagem suave */
+}
 
 a {
     color: black
@@ -48,6 +51,10 @@ header a {
     margin-top: 100px;
     background-color: rgb(140,108,241);
     text-align: center;
+}
+
+#banner img {
+    margin: 0 auto;
 }
 
 
